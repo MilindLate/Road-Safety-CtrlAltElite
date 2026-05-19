@@ -1,4 +1,4 @@
-# 🚨 SafeReach — Intelligent Emergency Response for Road Accidents
+# SafeReach — Intelligent Emergency Response for Road Accidents
 
 > **Team CtrlAltElite** | CoERS IIT Madras AI Road Safety Hackathon 2026  
 > Problem Statement: **RoadSoS — PS-3**  
@@ -286,4 +286,4 @@ Based on published research, a **12-minute reduction** in response time across I
 ---
 
 *SafeReach | Team CtrlAltElite | CoERS IIT Madras AI Road Safety Hackathon 2026*  
-*Confidential — For CoERS Evaluation Only*
+
