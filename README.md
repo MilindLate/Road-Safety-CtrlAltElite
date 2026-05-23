@@ -269,13 +269,7 @@ Road-Safety-CtrlAltElite/
 
 ---
 
-## Team
 
-| Name | Role | Sprint Ownership |
-|------|------|-----------------|
-| **Milind Late** | Team Lead / Backend | S1, S2, S3 |
-| Member 2 | AI / ML Engineer | S2, S3 |
-| Member 3 | Frontend / Mobile | S1, S2, S4 |
 
 ---
 
